@@ -1,9 +1,10 @@
 ### 🌟 About Me ![](https://komarev.com/ghpvc/?username=BhuvanB404&label=Profile+views&style=for-the-badge&color=green)
 
-- 🔭 Currently exploring **Systems Programming**.
-- ⚡ I enjoy **low-level programming** and **solving algorithmic problems**.
-  
-I enjoy learning about the interaction between software and hardware. Spending time to explore the spectrum from  **x86/arm architecture** to **compilers** to **ML**.
+- Currently diving deep into **Systems Programming** and **OS internals**.
+-  Fascinated by low-level programming, hardware-software interaction, and building things from the ground up.
+-  Love working with x86/ARM architectures, compilers, and real-time systems.
+-  Exploring the intersection of embedded systems, machine infrastructure, and machine learning.
+-  Always curious about how things work under the hood, from memory management to network protocols.
 
 
 

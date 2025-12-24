@@ -6,6 +6,17 @@
 -  Exploring the intersection of embedded systems, machine infrastructure, and machine learning.
 -  Always curious about how things work under the hood, from memory management to network protocols.
 
+  
+---
+
+## Tech Stack
+
+### Programming
+- C / C++
+- Python
+- Bash
+
+---
 
 
 ### 🌐 Find Me at:

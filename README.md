@@ -2,6 +2,8 @@
 
 - 🔭 Currently exploring **Systems Programming**.
 - ⚡ I enjoy **low-level programming** and **solving algorithmic problems**.
+  
+I enjoy learning about the interaction between software and hardware. Spending time to explore the spectrum from  **x86/arm architecture** to **compilers** to **ML**.
 
 
 
